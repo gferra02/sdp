@@ -8,5 +8,6 @@
     <orderEntry type="jdk" jdkName="9.0" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="junit-4.12" level="application" />
   </component>
 </module>

@@ -67,6 +67,7 @@ class WordCountTest {
         assertEquals(expectedWordCount, WordCount.phrase("First: don't laugh. Then: don't cry."))
     }
 
+    @Ignore
     @Test
     fun allowsQuotations() {
         val expectedWordCount = mapOf("joe" to 1, "can't" to 1, "tell" to 1, "between" to 1, "large" to 2, "and" to 1)
