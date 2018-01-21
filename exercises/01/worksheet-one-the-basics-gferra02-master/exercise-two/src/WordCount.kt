@@ -12,6 +12,8 @@ object WordCount {
 
         // I need to add a check for double and single quotes
 
+        // val noQuotes
+
         return groupedWords.mapValues({ it.value.size })
 
     }
