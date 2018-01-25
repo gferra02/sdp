@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8971039-e061-4d25-8794-bb77f754c5e9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/person/src/types/sum.kt" afterPath="$PROJECT_DIR$/person/src/types/sum.kt" />
-    </list>
+    <list default="true" id="b8971039-e061-4d25-8794-bb77f754c5e9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +25,8 @@
       <file leaf-file-name="sum.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/person/src/types/sum.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="326">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -415,7 +413,7 @@
       <workItem from="1516187443322" duration="502000" />
       <workItem from="1516188000675" duration="1989000" />
       <workItem from="1516190032645" duration="1564000" />
-      <workItem from="1516903494350" duration="3568000" />
+      <workItem from="1516903494350" duration="3822000" />
     </task>
     <servers />
   </component>
@@ -428,7 +426,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7623000" />
+    <option name="totallyTimeSpent" value="7877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
@@ -716,8 +714,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/person/src/types/sum.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="326">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
