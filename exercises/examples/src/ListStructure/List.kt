@@ -1,3 +1,5 @@
+package ListStructure
+
 sealed class List<T>
 class Node<T> (val value: T, val next: List<T>): List<T>()
 object Empty: List<Nothing>()
@@ -36,15 +38,19 @@ fun main (args: Array<String>) {
     // Another example of destructuring
     // val (value1, value2, name) = afunc2()
 
-//    assert(sum(l) == 6)
-//    assert(sum(Empty) == 0)
+    assert(sum(l) == 6)
+    assert(sum(Empty) == 0)
 }
 
 
 // Use TODO() as a placeholder
 
 fun sum(list: List<Int>): Int = when (l) {
-    is Node -> TODO()
+    is Node -> {
+        val (value, next) = 1
+        value + sum(next)
+    }
+
     Empty -> 0
 }
 
