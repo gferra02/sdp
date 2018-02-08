@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2f4f163-e775-4907-bac0-f4a62a0ca2f6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-four/src/Reflect.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-three/src/Reflect.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-two/src/Reflect.kt" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/exercise-one/exercise-one.iml" afterPath="$PROJECT_DIR$/exercise-one/exercise-one.iml" />
-    </list>
+    <list default="true" id="c2f4f163-e775-4907-bac0-f4a62a0ca2f6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,44 +12,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Reflect.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Reflect.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exercise-one/src/Reflect.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reflect.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercise-two/src/Reflect.kt">
+      <file leaf-file-name="aClassFile.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-one/src/aClassFile.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#70#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reflect.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercise-three/src/Reflect.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="152">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reflect.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercise-four/src/Reflect.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="76">
+                <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -67,11 +52,12 @@
       <list>
         <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -83,9 +69,10 @@
       <list>
         <option value="$PROJECT_DIR$/exercise-one/src/Reflection.java" />
         <option value="$PROJECT_DIR$/exercise-one/src/Reflection.kt" />
-        <option value="$PROJECT_DIR$/exercise-one/src/Reflect.kt" />
         <option value="$PROJECT_DIR$/exercise-three/src/Reflect.kt" />
         <option value="$PROJECT_DIR$/exercise-two/src/Reflect.kt" />
+        <option value="$PROJECT_DIR$/exercise-one/src/Reflect.kt" />
+        <option value="$PROJECT_DIR$/exercise-one/src/aClassFile.kt" />
       </list>
     </option>
   </component>
@@ -95,9 +82,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1200" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -114,73 +105,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="worksheet-two" type="b2602c69:ProjectViewProjectNode" />
-              <item name="worksheet-two" type="462c0819:PsiDirectoryNode" />
+              <item name="worksheet-two-reflection-gferra02-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="worksheet-two-reflection-gferra02-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="worksheet-two" type="b2602c69:ProjectViewProjectNode" />
-              <item name="worksheet-two" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise-four" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="worksheet-two" type="b2602c69:ProjectViewProjectNode" />
-              <item name="worksheet-two" type="462c0819:PsiDirectoryNode" />
+              <item name="worksheet-two-reflection-gferra02-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="worksheet-two-reflection-gferra02-master" type="462c0819:PsiDirectoryNode" />
               <item name="exercise-one" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="worksheet-two" type="b2602c69:ProjectViewProjectNode" />
-              <item name="worksheet-two" type="462c0819:PsiDirectoryNode" />
+              <item name="worksheet-two-reflection-gferra02-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="worksheet-two-reflection-gferra02-master" type="462c0819:PsiDirectoryNode" />
               <item name="exercise-one" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="worksheet-two" type="b2602c69:ProjectViewProjectNode" />
-              <item name="worksheet-two" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise-one" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Reflect.kt" type="24436e51:KtFileTreeNode" />
-            </path>
-            <path>
-              <item name="worksheet-two" type="b2602c69:ProjectViewProjectNode" />
-              <item name="worksheet-two" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise-three" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="worksheet-two" type="b2602c69:ProjectViewProjectNode" />
-              <item name="worksheet-two" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise-three" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="worksheet-two" type="b2602c69:ProjectViewProjectNode" />
-              <item name="worksheet-two" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise-two" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="worksheet-two" type="b2602c69:ProjectViewProjectNode" />
-              <item name="worksheet-two" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise-two" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="worksheet-two" type="b2602c69:ProjectViewProjectNode" />
-              <item name="worksheet-two" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise-two" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Reflect.kt" type="24436e51:KtFileTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,6 +140,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ReflectKtTwo">
+  <component name="RunManager" selected="Kotlin.ReflectKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -346,16 +297,17 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.Reflection" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.Reflection" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.Reflect" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.ReflectKtTwo" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.ReflectKt" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Reflection" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.Reflection" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.Reflect" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.ReflectKtTwo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.ReflectKtTwo" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.ReflectKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.ReflectKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.ReflectKtTwo" />
         <item index="2" class="java.lang.String" itemvalue="Kotlin.Reflect" />
         <item index="3" class="java.lang.String" itemvalue="Application.Reflection" />
         <item index="4" class="java.lang.String" itemvalue="Kotlin.Reflection" />
@@ -382,14 +334,15 @@
       <updated>1515362432287</updated>
       <workItem from="1515362437179" duration="2291000" />
       <workItem from="1515401353880" duration="2948000" />
+      <workItem from="1518113908134" duration="1234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5239000" />
+    <option name="totallyTimeSpent" value="6473000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -400,15 +353,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25608012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -417,6 +369,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -434,17 +387,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/exercise-one/src/Reflect.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercise-one/src/Reflection.kt" />
-    <entry file="file://$PROJECT_DIR$/exercise-one/src/Reflection.java" />
-    <entry file="file://$PROJECT_DIR$/exercise-one/src/Reflect.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="133">
           <caret line="7" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
@@ -468,11 +411,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercise-two/src/Reflect.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="152">
           <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding>
             <element signature="e#0#70#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-one/src/Reflect.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-one/src/Reflection.kt" />
+    <entry file="file://$PROJECT_DIR$/exercise-one/src/Reflection.java" />
+    <entry file="file://$PROJECT_DIR$/exercise-four/src/Reflect.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-three/src/Reflect.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-two/src/Reflect.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-one/src/aClassFile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-one/src/Reflect.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>

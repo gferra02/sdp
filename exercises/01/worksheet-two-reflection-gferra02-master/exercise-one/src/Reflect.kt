@@ -4,5 +4,13 @@ fun main(args: Array<String>) {
         System.exit(-1)
     }
 
-    // TODO
+    // TODO()
+
+    read("aClassFile")
+
+}
+
+fun read(fileName: String) {
+    val theName = Class.forName(fileName)
+    println(theName)
 }
